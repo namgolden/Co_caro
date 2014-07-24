@@ -6,3 +6,6 @@
 #include <cstring>
 
 using namespace std;
+
+int check_routine()
+
